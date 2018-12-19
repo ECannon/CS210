@@ -91,6 +91,7 @@ public class Lab6 {
 			int random = rd.nextInt(high - low) + low;
 
 			for (int j = 0; j < random; j++) {
+				
 				int n1 = rd.nextInt(ar1.size());
 				subset1.add(ar1.get(n1));
 				subset1Total = subset1Total.add(BigInteger.valueOf(ar1.get(n1)));
