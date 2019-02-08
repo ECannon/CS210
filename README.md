@@ -1,1 +1,1 @@
-Programs from my Algorithms & Data Structures 1 course.
+Programs from my Data Structures & Algorithms 1 course.
